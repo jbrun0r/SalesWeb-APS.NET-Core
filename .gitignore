@@ -1,0 +1,53 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dll
+*.exe
+*.pdb
+*.user
+*.builds
+*.obj
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+*.userprefs
+*.vspscc
+*.vssscc
+*.ncb
+*.suo
+*.cachefile
+*.webinfo
+*.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj/
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Publish
+_PublishWebOutput/
